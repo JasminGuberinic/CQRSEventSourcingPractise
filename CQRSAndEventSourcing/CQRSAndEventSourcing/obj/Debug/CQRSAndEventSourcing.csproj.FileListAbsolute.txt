@@ -1,0 +1,7 @@
+C:\Users\azra\source\repos\CQRSAndEventSourcing\CQRSAndEventSourcing\bin\Debug\CQRSAndEventSourcing.exe.config
+C:\Users\azra\source\repos\CQRSAndEventSourcing\CQRSAndEventSourcing\bin\Debug\CQRSAndEventSourcing.exe
+C:\Users\azra\source\repos\CQRSAndEventSourcing\CQRSAndEventSourcing\bin\Debug\CQRSAndEventSourcing.pdb
+C:\Users\azra\source\repos\CQRSAndEventSourcing\CQRSAndEventSourcing\obj\Debug\CQRSAndEventSourcing.csprojAssemblyReference.cache
+C:\Users\azra\source\repos\CQRSAndEventSourcing\CQRSAndEventSourcing\obj\Debug\CQRSAndEventSourcing.csproj.CoreCompileInputs.cache
+C:\Users\azra\source\repos\CQRSAndEventSourcing\CQRSAndEventSourcing\obj\Debug\CQRSAndEventSourcing.exe
+C:\Users\azra\source\repos\CQRSAndEventSourcing\CQRSAndEventSourcing\obj\Debug\CQRSAndEventSourcing.pdb
